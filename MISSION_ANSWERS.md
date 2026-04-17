@@ -1,5 +1,9 @@
 # Day 12 Lab - Answer Sheet
 
+> **Student Name:** Tran Dang Quang Huy
+> **Student ID:** 2A202600292
+> **Date:** 17/04/2026
+
 ## Part 1: Localhost vs Production
 
 ### Exercise 1.1: Anti-patterns found in `01-localhost-vs-production/develop/app.py`
